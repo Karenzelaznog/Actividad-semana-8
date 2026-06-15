@@ -1,0 +1,16 @@
+5 prácticas de seguridad para plataformas digitales comunitarias:
+
+1. Validar los datos que envían los usuarios antes de procesarlos,
+   para evitar ataques de inyección de código malicioso.
+
+2. Implementar autenticación de dos factores para que solo
+   usuarios autorizados puedan acceder al sistema.
+
+3. Mantener actualizadas todas las dependencias y librerías
+   del proyecto para corregir vulnerabilidades conocidas.
+
+4. Cifrar la información sensible almacenada en la base de datos
+   para protegerla en caso de acceso no autorizado.
+
+5. Generar registros de auditoría que guarden cada acción
+   realizada en la plataforma para detectar comportamientos sospechosos.

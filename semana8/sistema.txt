@@ -1,0 +1,14 @@
+Comandos de información del sistema:
+
+1. uname -a → Muestra el nombre del sistema operativo, versión del kernel
+   y arquitectura del equipo. Es útil para saber qué sistema está corriendo.
+
+2. whoami → Indica con qué usuario estás trabajando actualmente.
+   Ayuda a verificar si tienes permisos de administrador.
+
+3. df -h → Muestra el espacio disponible en disco de forma legible.
+   Es útil para evitar que el servidor se quede sin almacenamiento.
+
+Es importante conocer esta información porque permite detectar problemas
+de rendimiento, verificar permisos y mantener el servidor funcionando
+correctamente.
